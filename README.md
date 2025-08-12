@@ -2,7 +2,8 @@
 This repository provides a Pytorch implementation of **FlavorGraph2Vec**, trained on **FlavorGraph**, a large-scale food ingredient/chemical compound network of 8K nodes and 147K edges. As it is trained on not only food-food but also compound-compound relationships, our **FlavorGraph2Vec** is able to provide plausible food ingredient pairing recommendations based on chemical context. 
 
 > **FlavorGraph: Building and embedding a large-scale food graph to suggest better food pairing** <br>
-> *Donghyeon Park\*, Keonwoo Kim, Seoyoon Kim, Michael Spranger and Jaewoo Kang* <br>
+> *Donghyeon Park\*, Keonwoo Kim, Seoyoon Kim, Michael Spranger and Jaewoo Kang*  , Now contributions locally from Achyut Mukund<br>
+
 > *Accepted and to be appear in [a publication or conference]* <br><br>
 > *Our paper is available at:* <br>
 > *[the link to the paper]* <br><br>
